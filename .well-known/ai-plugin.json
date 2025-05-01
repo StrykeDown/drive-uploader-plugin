@@ -16,10 +16,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://yourdomain.com/.well-known/openapi.json",
+    "url": "https://StrykeDown.github.io/.well-known/openapi.json",
     "is_user_authenticated": true
   },
   "logo_url": "https://yourdomain.com/logo.png",
-  "contact_email": "support@example.com",
+  "contact_email": "brayden@gmail.com",
   "legal_info_url": "https://example.com/legal"
 }
